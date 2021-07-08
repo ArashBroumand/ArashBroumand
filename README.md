@@ -1,1 +1,1 @@
-I am Arash Broumand, a trained communications engineer, interested in probability, information theory, and statistical learning theory. 
+I am Arash Broumand, communications engineer by training, interested in probability, information theory, and statistical learning theory. 
